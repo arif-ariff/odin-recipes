@@ -9,3 +9,7 @@ h1 {
 .recipe-title {
   text-align: center;
 }
+
+.recipe-subheading {
+  font-weight: bold;
+}
